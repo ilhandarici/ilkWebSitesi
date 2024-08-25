@@ -7,7 +7,7 @@ p etiketi: Paragraf yazmak için kullanılır.<br>
 
 ---------------------------------------------
 ## Siteden Görsel
-![Ekran Alıntısı](https://github.com/user-attachments/assets/d4cacde4-375f-4aa4-b4f5-b77aee40862c)
+![Ekran Alıntısı](https://github.com/user-attachments/assets/5c7395fc-fc0d-4a9c-bf3b-7444c0b4c5c7)
 
 ---------------------------------------------
 
